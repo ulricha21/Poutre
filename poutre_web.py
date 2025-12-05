@@ -59,7 +59,7 @@
             <button class="tab" onclick="changerModule('escalier')">Escaliers</button>
             <button class="tab" onclick="changerModule('dalle')">Dalles</button>
             <button class="tab" onclick="changerModule('reservoir')">Réservoirs</button>
-            <button class="tab" onclick="changerModule('projet')">📁 Projet</button>
+            <button class="tab" onclick="changerModule('projet')"> Projet</button>
         </div>
 
         <!-- ========== MODULE POUTRE ========== -->
@@ -839,7 +839,7 @@
         <!-- ========== MODULE PROJET ========== -->
         <div id="module-projet" class="module">
             <div class="projet-header">
-                <h3>📁 Gestion du Projet</h3>
+                <h3> Gestion du Projet</h3>
                 <div class="projet-actions">
                     <button class="btn-secondary" onclick="nouveauProjet()">🆕 Nouveau</button>
                     <button class="btn-secondary" onclick="chargerProjet()">📂 Ouvrir</button>
@@ -927,6 +927,7 @@
 <script src="js/app.js"></script>
 </body>
 </html>
+
 
 
 
