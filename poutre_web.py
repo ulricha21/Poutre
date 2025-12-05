@@ -17,7 +17,6 @@
             <div class="logo">A</div>
             <div class="brand">
                 <h1>Ing. ANDRIAMANAMPISOA</h1>
-                <p>Bureau d'Études Structure & Béton Armé</p>
             </div>
         </div>
         <nav class="nav">
@@ -928,4 +927,5 @@
 <script src="js/app.js"></script>
 </body>
 </html>
+
 
