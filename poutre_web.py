@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ing. ANDRIAMANAMPISOA - Bureau d'Études Béton Armé | Eurocode 2</title>
     <meta name="description" content="Logiciel de calcul béton armé en ligne - Poutres, Poteaux, Dalles, Escaliers, Réservoirs - Eurocode 2 + Annexe Nationale France">
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -929,3 +928,4 @@
 <script src="js/app.js"></script>
 </body>
 </html>
+
