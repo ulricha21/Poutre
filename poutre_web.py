@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """
 CALCUL POUTRE AVEC CONSOLES - EUROCODE 2 (EC2)
 Version professionnelle avec tableau détaillé de ferraillage
@@ -689,3 +689,4 @@ if __name__ == "__main__":
     
     app = PoutreBAApp(root)
     root.mainloop()
+
