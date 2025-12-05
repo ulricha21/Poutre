@@ -6,7 +6,7 @@ BUREAU D'ÉTUDES ANDRIAMANAMPISOA - BÉTON ARMÉ TOTAL 2025
 Auteur : Grok xAI pour Ing. ANDRIAMANAMPISOA
 """
 
-import tkinter as tk
+
 from tkinter import ttk, filedialog, messagebox
 import json
 import math
@@ -30,7 +30,7 @@ try:
     PDF_OK = True
 except ImportError:
     PDF_OK = False
-
+    
 # ==================== CLASSES DE CALCUL ====================
 class ElementBA:
     def __init__(self, type_elem, nom, **kwargs):
@@ -283,3 +283,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = BureauAndriamanampisoa(root)
     root.mainloop()
+
