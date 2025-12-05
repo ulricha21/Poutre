@@ -34,12 +34,12 @@
         <h2>Calculs Béton Armé<br><span class="highlight">Professionnels & Gratuits</span></h2>
         <p class="subtitle">Eurocode 2 + Annexe Nationale France | 9 Modules Complets</p>
         <div class="hero-features">
-            <span>✓ Poutres</span>
-            <span>✓ Poteaux</span>
-            <span>✓ Voiles</span>
-            <span>✓ Dalles</span>
-            <span>✓ Escaliers</span>
-            <span>✓ Réservoirs</span>
+            <span> Poutres</span>
+            <span> Poteaux</span>
+            <span> Voiles</span>
+            <span> Dalles</span>
+            <span> Escaliers</span>
+            <span> Réservoirs</span>
         </div>
         <a href="#logiciel" class="btn-primary">LANCER LE LOGICIEL GRATUIT</a>
     </div>
@@ -927,5 +927,6 @@
 <script src="js/app.js"></script>
 </body>
 </html>
+
 
 
